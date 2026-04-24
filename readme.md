@@ -1,4 +1,5 @@
-# <p>Máximo Facundo Goitia</p> K1027
+# Máximo Facundo Goitia 
+## K1027
 ## Algoritmo y Estructura de Datos (AyED)
 
 ### Al hacer el g++ --version sale lo siguiente:
@@ -10,10 +11,3 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 ```
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-<style>
-  p::first-letter {
-    font-size: 50px;
-    color: #00599C;
-}
-</style>
