@@ -1,6 +1,6 @@
-# Máximo Facundo Goitia 
-## K1027
-## Algoritmo y Estructura de Datos (AyED)
+# Algoritmo y Estructura de Datos (AyED)
+Máximo Facundo Goitia  
+K1027
 
 ### Al hacer el g++ --version sale lo siguiente:
 ```shell
